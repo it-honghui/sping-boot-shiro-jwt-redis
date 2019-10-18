@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="cn.gathub.mapper.SysUserMapper">
+
+    <!-- 根据用户名查询 -->
+    <select id="getUserByName" resultType="cn.gathub.entity.SysUser">
+		select * from  sys_user  where user_name = #{username} and del_flag = '0'
+	</select>
+
+</mapper>
