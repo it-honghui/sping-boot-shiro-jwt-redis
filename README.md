@@ -26,5 +26,3 @@
 ![在这里插入图片描述](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9pbWcuZ2F0aHViLmNuL2ltYWdlL2E2OWI4Njg5ZWZkMGZlNzBjYjU5MjE5NGIzOWNlODEwLnBuZw?x-oss-process=image/format,png)
 **无需登陆token也可以访问的接口（在过滤器中将接口或者资源文件放开）**
 ![在这里插入图片描述](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9pbWcuZ2F0aHViLmNuL2ltYWdlLzEyMjY2ZTE5MDljNjMxYjQ2ZmE3ZjVmYTAwZWFlYzllLnBuZw?x-oss-process=image/format,png)
-## 五、github源码地址
-地址：[https://github.com/it-wwh/sping-boot-shiro-jwt-redis.git](https://github.com/it-wwh/sping-boot-shiro-jwt-redis.git)
